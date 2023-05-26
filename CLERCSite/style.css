@@ -1,0 +1,60 @@
+/* Body visibility and colour */
+body {
+  background-color: rgba(0, 0, 255, 0.85);
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 20px, 20px, 20px, 20px;
+  border-radius: 25px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+  color: rgb(192, 192, 192);
+}
+
+html {
+  background-color: #ffa600;
+}
+
+/* Navigation bar alignment*/
+.nav {
+  text-align: center;
+}
+
+.nav a {
+  margin: 0px 25px;
+  color: rgb(192, 192, 192);
+}
+
+/* Navigation bar text hover */
+.nav a:hover {
+  font-style: bold;
+  color: red;
+}
+
+/* Image class borders */
+.img {
+  border: 5px solid;
+  border-color: black;
+}
+
+/* Center image paragraphs */
+.imgCenter {
+  text-align: center;
+}
+
+/* Centered font for titles */
+.center {
+  text-align: center;
+}
+
+/* Link hover changes */
+.link:hover {
+  font-style: italic;
+}
+
+/* Italics */
+.italic {
+  font-style: italic;
+}
